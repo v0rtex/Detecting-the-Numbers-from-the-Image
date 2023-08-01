@@ -41,8 +41,8 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/meter-image-analysis.git
-cd meter-image-analysis
+git clone https://github.com/v0rtex/Detecting-the-Numbers-from-the-Image.git
+cd Detecting-the-Numbers-from-the-Image
 ```
 
 2. Install the required dependencies:
